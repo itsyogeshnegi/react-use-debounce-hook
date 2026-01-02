@@ -3,6 +3,9 @@
   "version": "1.1.0",
   "description": "A simple and reusable debounce hook for React",
   "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "react",
     "debounce",
