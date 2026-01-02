@@ -1,0 +1,26 @@
+{
+  "name": "react-use-debounce-hook",
+  "version": "1.0.0",
+  "description": "A simple and reusable debounce hook for React",
+  "main": "src/index.js",
+  "keywords": [
+    "react",
+    "debounce",
+    "hook",
+    "react-hooks",
+    "useDebounce"
+  ],
+  "author": "Yogesh Negi",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/preset-react": "^7.28.5"
+  }
+}
