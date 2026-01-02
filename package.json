@@ -1,5 +1,5 @@
 {
-  "name": "react-use-debounce-hook",
+  "name": "use-debounce-hook-web",
   "version": "1.0.0",
   "description": "A simple and reusable debounce hook for React",
   "main": "src/index.js",
