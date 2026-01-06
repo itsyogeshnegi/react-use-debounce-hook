@@ -1,6 +1,6 @@
 {
   "name": "use-debounce-hook-web",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A simple and reusable debounce hook for React",
   "main": "src/index.js",
   "publishConfig": {
